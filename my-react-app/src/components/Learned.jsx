@@ -8,9 +8,10 @@ function Learned() {
         <li>Created reusable JSX Component</li>
         <li>Integrated React Router for navigation</li>
         <li>Integrated Tailwind v4 via Vite for styling</li>
+        <li>Utilized props to pass data from parent to child components</li>
       </ul>
     </div>
-  )
+  );
 }
 
-export default Learned
+export default Learned;

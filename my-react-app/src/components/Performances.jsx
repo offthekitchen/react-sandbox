@@ -1,18 +1,12 @@
-import jsonBreweries from "/src/data/BREWERIES.json"
+import PerformancesList from "/src/components/PerformancesList"
 
 function Performances() {
 
   return (
-    <div className="performanceList">
+    <div className="performances">
       <h2>Performances</h2>
-      <ul>
-        {jsonBreweries.breweries.map((brewery) => (
-          <li key={brewery.id}>
-            {brewery.brewery} - {brewery.cityName}
-          </li>
-        ))}
-      </ul>
-
+      <PerformancesList type="colorado"/>
+      <PerformancesList type="other" />
     </div>
   )
 }
