@@ -1,0 +1,154 @@
+{
+  "breweries": [
+    {
+      "id": 1,
+      "brewery": "Laughing Sun Brewing Company",
+      "cityName": "Bismarck",
+      "stateCode": "ND"
+    },
+    {
+      "id": 2,
+      "brewery": "Gold Camp Brewing",
+      "cityName": "Colorado Springs",
+      "stateCode": "CO"
+    },
+    {
+      "id": 3,
+      "brewery": "Two Mile Brewing Company",
+      "cityName": "Leadville",
+      "stateCode": "CO"
+    },
+    {
+      "id": 4,
+      "brewery": "Tommyknocker Brewing",
+      "cityName": "Idaho Springs",
+      "stateCode": "CO"
+    },
+    {
+      "id": 51,
+      "brewery": "The Colorado Farm Brewery",
+      "cityName": "Alamosa",
+      "stateCode": "CO"
+    },
+    {
+      "id": 6,
+      "brewery": "Ouray Brewery",
+      "cityName": "Ouray",
+      "stateCode": "CO"
+    },
+    {
+      "id": 7,
+      "brewery": "Goat Patch Brewing",
+      "cityName": "Colorado Springs",
+      "stateCode": "CO"
+    },
+    {
+      "id": 8,
+      "brewery": "Marshall Brewing Company",
+      "cityName": "Tulsa",
+      "stateCode": "OK"
+    },
+    {
+      "id": 9,
+      "brewery": "Boese Brothers Brewing",
+      "cityName": "Albuquerque",
+      "stateCode": "NM"
+    },
+    {
+      "id": 10,
+      "brewery": "Vicious Cycle Brewing",
+      "cityName": "Fraser",
+      "stateCode": "CO"
+    },
+    {
+      "id": 11,
+      "brewery": "Gruner Brothers Brewing",
+      "cityName": "Casper",
+      "stateCode": "WY"
+    },
+    {
+      "id": 12,
+      "brewery": "Cabin Creek Brewing",
+      "cityName": "Georgetown",
+      "stateCode": "CO"
+    },
+    {
+      "id": 13,
+      "brewery": "Burly Brewing Co.",
+      "cityName": "Castle Rock",
+      "stateCode": "CO"
+    },
+    {
+      "id": 14,
+      "brewery": "Third Place Brewing",
+      "cityName": "Wichita",
+      "stateCode": "KS"
+    },
+    {
+      "id": 15,
+      "brewery": "Comanche Creek Brewing Company",
+      "cityName": "Eagle Nest",
+      "stateCode": "NM"
+    },
+    {
+      "id": 16,
+      "brewery": "Mother Tucker Brewery",
+      "cityName": "Thornton",
+      "stateCode": "CO"
+    },
+    {
+      "id": 17,
+      "brewery": "T Road Brewing Company",
+      "cityName": "Crestone",
+      "stateCode": "CO"
+    },
+    {
+      "id": 18,
+      "brewery": "300 Suns Brewing",
+      "cityName": "Longmont",
+      "stateCode": "CO"
+    },
+    {
+      "id": 19,
+      "brewery": "Mother Tucker Brewery",
+      "cityName": "Louisville",
+      "stateCode": "CO"
+    },
+    {
+      "id": 20,
+      "brewery": "LUKI Brewing",
+      "cityName": "Arvada",
+      "stateCode": "CO"
+    },
+    {
+      "id": 21,
+      "brewery": "WildEdge Brewing Collective",
+      "cityName": "Cortez",
+      "stateCode": "CO"
+    },
+    {
+      "id": 22,
+      "brewery": "Crafty Canary Brewery",
+      "cityName": "Walsenburg",
+      "stateCode": "CO"
+    },
+    {
+      "id": 23,
+      "brewery": "Rule105 Brewing",
+      "cityName": "Greeley",
+      "stateCode": "CO"
+    },
+    {
+      "id": 24,
+      "brewery": "Mountain Merman Brewing Co.",
+      "cityName": "La Veta",
+      "stateCode": "CO"
+    },
+    {
+      "id": 25,
+      "brewery": "Tumbleweed Brewing and Wine Co.",
+      "cityName": "Yuma",
+      "stateCode": "CO"
+    }
+  ]
+}
