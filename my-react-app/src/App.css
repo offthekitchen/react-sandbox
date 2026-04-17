@@ -2,5 +2,11 @@ ul {
   text-align: left;
   color: #fff;
 }
+.fade-in-slide {
+  animation: fade-slide 1s ease-in-out forwards
+}
 
-
+@keyframes fade-slide {
+  from { transform: translateX(-100%); opacity: 0; }
+  to   { transform: translateX(0); opacity: 1; }
+}
